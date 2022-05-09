@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @paula939
-- 👀 I’m interested in learning everything I can about coding and computer science
-- 🌱 I’m currently learning introduction to computer science
-- 💞️ I’m looking to collaborate introductory works
-- 📫 How to reach me here.
+- 🍄Hi, I’m @paula939
+- I'm 16 years old and I'm from Nicaragua, the biggest country of Centralamerica...
+- I'm currently learning language C++ 
+I think that's it for the moment. 
+I don't have any coding expercience but I willing to learn how to do it :). 
+
+🌼
+-
 
 <!---
 paula939/paula939 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
